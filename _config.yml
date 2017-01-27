@@ -1,0 +1,24 @@
+name: alkhattab.com
+layout_spectrum: 0.6472863097897262
+typography_spectrum: 0.8594392265036059
+opengraph:
+  type: ''
+  appId: ''
+color:
+  brandColors:
+    - '#7D8A2E'
+    - '#C9D787'
+    - '#FFFFFF'
+    - '#FFC0A9'
+    - '#FF8598'
+  brandStrength: 0.5401703664267362
+  lightness: 0.4922653082121248
+  saturation: 0.9697675016444807
+  rhythmicContrast: 0.2542055268925153
+title: ''
+description: ''
+author: {}
+content_rating:
+  adult: false
+content: []
+github: true
